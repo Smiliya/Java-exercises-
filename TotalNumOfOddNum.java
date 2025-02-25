@@ -1,4 +1,8 @@
-class TotalNumOfOddNum
+
+
+
+ class TotalNumOfOddNum
+
  {
  
 public static void main(String args[])
@@ -24,3 +28,7 @@ count++;
 System.out.println("The Count Of Odd Numbers are:" + count);
 }
 }
+
+
+  OUTPUT
+  The Count Of Odd Number are:50
