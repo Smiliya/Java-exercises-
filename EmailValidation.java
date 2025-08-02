@@ -47,4 +47,4 @@ return false;
  OUTPUT
 Enter an email address: 24SBCS081@psgrkcw.ac.in
 Valid email address.
-BUILD SUCCESSFUL (total time: 1 minute 33 seconds)
+BUILD SUCCESSFUL
