@@ -58,4 +58,4 @@ salary increased by 10.0% new salary:$55000.0
 Invalid percentage.salary remains unchanged .
 updated Employee1;salary-$55000.0
 updated Employee2:salary -$60000.0
-BUILD SUCCESSFUL (total time: 0 seconds
+BUILD SUCCESSFUL 
