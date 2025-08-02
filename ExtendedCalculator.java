@@ -78,4 +78,4 @@ public class ExtendedCalculator
 
 Result1:12.0
 Result2:2.0
-BUILD SUCCESSFUL (total time: 0 seconds)
+BUILD SUCCESSFUL
