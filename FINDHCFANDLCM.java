@@ -1,19 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package findhcfandlcm;
 
-/**
- *
- * @author 1BSCCSB23
- */
 public class FINDHCFANDLCM {
-
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
        int a,b,x,y,t,hcf,lcm;
        x=6;
@@ -40,4 +29,4 @@ public class FINDHCFANDLCM {
 output
 HCF and LCM of:6and 10is:
 HCF=2
- lcm=30BUILD SUCCESSFUL (total time: 0 seconds)
+ lcm=30BUILD SUCCESSFUL 
