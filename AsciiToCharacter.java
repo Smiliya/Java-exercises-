@@ -1,19 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package asciitocharacter;
 
-/**
- *
- * @author 1BSCCSB55
- */
 public class AsciiToCharacter {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         char c,
                 for(int i=65;i<=90;i++)
@@ -53,4 +41,4 @@ public class AsciiToCharacter {
 88=X
 89=Y
 90=Z
-BUILD SUCCESSFUL (total time: 3 seconds)
+BUILD SUCCESSFUL 
