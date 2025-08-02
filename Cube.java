@@ -12,4 +12,4 @@ public class Cube {
 
 OUTPUT
     Volume of cube:125.0
-BUILD SUCCESSFUL (total time: 0 seconds)
+BUILD SUCCESSFUL 
