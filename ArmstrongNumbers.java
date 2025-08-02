@@ -23,4 +23,4 @@ public class ArmstrongNumbers
     }
 }
    OUTPUT
-Armstrong numbers from 1 to N:1 153 370 371 407 BUILD SUCCESSFUL (total time: 0 seconds)
+Armstrong numbers from 1 to N:1 153 370 371 407 BUILD SUCCESSFUL
